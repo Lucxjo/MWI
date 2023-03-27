@@ -13,3 +13,7 @@ This will just convert a message from Matrix to a JSON payload like:
   "data": "All's good"
 }
 ```
+
+Want to chat to me about this? I don't have a Matrix room for this yet, since I
+don't think many people will be interested apart from myself. But, you can DM me
+on [Matrix](https://matrix.to/#/@ludo:ludoviko.ch)
